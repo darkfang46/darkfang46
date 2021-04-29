@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dark Fang~</h1>
+<h1 align="center">Hi 👋, I'm Fang~</h1>
 <h3 align="center">A passionate frontend developer from India. Interested in coding ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkfang46&label=Profile%20views&color=0e75b6&style=flat" alt="darkfang46" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and CSS.**
 
-- 👯 Looking for collaboration? **Dm me on discord : Dark Fang~#7631**
+- 👯 Looking for collaboration? **Dm me on discord : Keqing#4144**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkfang46](https://github.com/darkfang46)
 
