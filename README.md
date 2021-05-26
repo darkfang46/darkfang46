@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and CSS.**
 
-- 👯 Looking for collaboration? **Dm me on discord : Keqing#4144**
+- 👯 Looking for collaboration? **Dm me on discord : Hu Tao#4144**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkfang46](https://github.com/darkfang46)
 
